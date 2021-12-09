@@ -1,0 +1,2 @@
+EXEC = Calcul
+# constituants de l'app
